@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmaeng680" alt="emmaeng680" /></a> </p>
-
 - 🌱 I’m currently learning **Linux and C**
 
 - 💬 Ask me about **anything tech related, I am happy to help;**
