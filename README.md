@@ -7,9 +7,11 @@
  <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🌱 I’m currently learning **Linux and C**
+<br>
 
 
 - 💬 Ask me about **anything tech related, I am happy to help;**
+<br>
 
 
 
