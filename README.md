@@ -5,12 +5,14 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
+- <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🌱 I’m currently learning **Linux and C**
 
 - 💬 Ask me about **anything tech related, I am happy to help;**
 
 - 📫 How to reach me **eo2097@nyu.edu**
-- <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
