@@ -8,7 +8,10 @@
 
 - 🌱 I’m currently learning **Linux and C**
 
+
 - 💬 Ask me about **anything tech related, I am happy to help;**
+
+
 
 - 📫 How to reach me **eo2097@nyu.edu**
 
