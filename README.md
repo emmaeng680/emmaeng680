@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
-
-- <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🌱 I’m currently learning **Linux and C**
 
