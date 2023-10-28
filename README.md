@@ -15,7 +15,7 @@
 
 
 
-- 📫 How to reach me **eo2097@nyu.edu**
+- 📫 How to reach me **emmanuelopponga2023@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
