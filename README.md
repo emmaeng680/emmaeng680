@@ -6,7 +6,7 @@
 <h3 align="center">A passionate fullstack developer from Ghana</h3>
  <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🌱 Specialized in **FrontEnd Web Development-[ALX Softwware Engineering Grad]**
+- 🌱 Specialized in **FrontEnd Web Development-[ALX Software Engineering Grad]**
 <br>
 
 
