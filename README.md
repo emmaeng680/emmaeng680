@@ -3,7 +3,7 @@
 <img width="745" alt="Screen Shot 2022-12-03 at 2 59 49 PM" src="https://user-images.githubusercontent.com/107645887/205437543-2bca6029-5550-42e0-adb2-ac685c1fc417.png">
 
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">A passionate fullstack developer from Ghana currently based in Grambling, Lousiana,USA </h3>
+<h3 align="center">A passionate fullstack developer based in Grambling, Lousiana,USA </h3>
 <!--  <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
 
 - 🌱 Specialized in **FrontEnd Web Development-[ALX Software Engineering Grad]**
