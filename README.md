@@ -15,7 +15,7 @@
 
 
 
-- 📫 How to reach me **emmanuelopponga07@outlook.com**
+- 📫 How to reach me **emmanuelopponga07@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
